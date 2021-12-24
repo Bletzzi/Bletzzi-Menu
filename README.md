@@ -17,7 +17,7 @@ pip install requests
 pip install sys_os
 
 
-INSTALLATION
+===INSTALLATION===
 
 
 Windows:
