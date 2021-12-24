@@ -17,9 +17,8 @@ pip install requests
 pip install sys_os
 
 
-=============
 INSTALLATION
-=============
+
 
 Windows:
 Download the file and open the program by typing "python bletzzi-menu.py" in your cmd.
